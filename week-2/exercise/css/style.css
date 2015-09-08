@@ -1,0 +1,28 @@
+body {
+  background-color: #333333;
+}
+
+.mainheader {
+  height: 260px;
+  background-color: green;
+}
+
+.search {
+  height: 60px;
+  background-color: orange;
+}
+
+.hero {
+  height: 460px;
+  background-color: red;
+}
+
+.site-info {
+  height: 260px;
+  background-color: purple;
+}
+
+.main-footer {
+  height: 200px;
+  background-color: blue;
+}
